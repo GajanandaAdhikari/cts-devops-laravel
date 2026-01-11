@@ -28,7 +28,7 @@ cts/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/GajanandaAdhikari/cts-devops-laravel.git
 cd cts
 ```
 
@@ -214,7 +214,7 @@ nginx:
 ## 📦 Project Features
 
 - ✅ Laravel 10.x (latest)
-- ✅ PHP 8.2 with FPM
+- ✅ PHP 8.4 with FPM
 - ✅ Nginx web server
 - ✅ MySQL 8.0 database
 - ✅ Docker Compose orchestration
@@ -229,13 +229,10 @@ nginx:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open-sourced software licensed under the MIT license.
 
 ## 👤 Author
 
-Your Name - [Your GitHub Profile]
+Gajananda Adhikari - [Linkedin](linkedin.com/in/gazananda)
 
 ## 🙏 Acknowledgments
 
